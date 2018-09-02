@@ -5,11 +5,38 @@
     <link>https://xwutong.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 02 Sep 2018 10:56:45 +0800</lastBuildDate>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 02 Sep 2018 11:36:31 +0800</lastBuildDate>
     
 	<atom:link href="https://xwutong.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Report</title>
+      <link>https://xwutong.github.io/post/report/</link>
+      <pubDate>Sun, 02 Sep 2018 11:36:31 +0800</pubDate>
+      
+      <guid>https://xwutong.github.io/post/report/</guid>
+      <description>这是关于最近工作的报告。</description>
+    </item>
+    
+    <item>
+      <title>Apply</title>
+      <link>https://xwutong.github.io/apply/</link>
+      <pubDate>Sun, 02 Sep 2018 11:32:52 +0800</pubDate>
+      
+      <guid>https://xwutong.github.io/apply/</guid>
+      <description>这里介绍如何申请。</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://xwutong.github.io/about/</link>
+      <pubDate>Sun, 02 Sep 2018 11:32:16 +0800</pubDate>
+      
+      <guid>https://xwutong.github.io/about/</guid>
+      <description>这是关于我的介绍页面。</description>
+    </item>
     
     <item>
       <title>Hello</title>

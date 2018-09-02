@@ -3,19 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://xwutong.github.io/post/report/</loc>
+    <lastmod>2018-09-02T11:36:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xwutong.github.io/apply/</loc>
+    <lastmod>2018-09-02T11:32:52+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xwutong.github.io/about/</loc>
+    <lastmod>2018-09-02T11:32:16+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://xwutong.github.io/post/hello/</loc>
     <lastmod>2018-09-02T10:56:45+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://xwutong.github.io/</loc>
-    <lastmod>2018-09-02T10:56:45+08:00</lastmod>
+    <lastmod>2018-09-02T11:36:31+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://xwutong.github.io/post/</loc>
-    <lastmod>2018-09-02T10:56:45+08:00</lastmod>
+    <lastmod>2018-09-02T11:36:31+08:00</lastmod>
     <priority>0</priority>
   </url>
   
